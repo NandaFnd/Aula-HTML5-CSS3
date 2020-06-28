@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(188, 218, 208);
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+header {
+    margin-top: 40px;
+}
+
+h1{
+    color: rgb(95, 18, 18);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+p{
+    font-size: 18
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img-padrao {
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+.logo {
+    width: 150px;
+}
